@@ -1,0 +1,13 @@
+{
+    "uuid": "bbswitch-status@derekstavis.me",
+    "name": "Discrete GPU Status",
+    "description": "Displays whether discrete GPU is on or off (using bbswitch)",
+    "shell-version": [
+        "3.11",
+        "3.12",
+        "3.14",
+        "3.16",
+        "3.18",
+        "3.20"
+    ]
+}
